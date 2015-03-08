@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="98,96,96,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,">
+        <Project ProjectGUID="{EE318065-1462-410b-96AA-FB1DD48E196B}" Name="Cortex-M0_Execute_for_lpc1100" ACTCFG="DebugInFlash">
+            <TARGOPT Name="DebugInFlash" OPTDF="1">
+                <OPTFFF VAL="&lt;.\zy_code\startup\lpc1100.h&gt; {0,1,-1,-1,26,26,812,246,334,24045}" />
+                <OPTFFF VAL="&lt;.\cfg_file\startup\lpc1100pincfg.h&gt; {0,1,-1,-1,26,26,812,246,445,30702}" />
+                <OPTFFF VAL="&lt;.\zy_code\startup\lpc1100pincfg.c&gt; {0,1,-1,-1,26,26,812,246,48,3879}" />
+                <OPTFFF VAL="&lt;.\user_code\main.c&gt; {2,3,-1,-1,26,26,812,246,171,8743}" />
+            </TARGOPT>
+        </Project>
+    </Projects>
+</TKStudioOptions>

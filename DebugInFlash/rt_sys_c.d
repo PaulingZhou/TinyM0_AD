@@ -1,0 +1,15 @@
+.\DebugInFlash\rt_sys_c.o: .\cfg_file\Startup\rt_sys_c.c
+.\DebugInFlash\rt_sys_c.o: .\cfg_file\Startup\..\..\config.h
+.\DebugInFlash\rt_sys_c.o: .\cfg_file\Startup\..\..\.\ZY_CODE\firmware.h
+.\DebugInFlash\rt_sys_c.o: C:\Keil\ARM\ARMCC\include\ctype.h
+.\DebugInFlash\rt_sys_c.o: C:\Keil\ARM\ARMCC\include\stdlib.h
+.\DebugInFlash\rt_sys_c.o: C:\Keil\ARM\ARMCC\include\setjmp.h
+.\DebugInFlash\rt_sys_c.o: C:\Keil\ARM\ARMCC\include\rt_misc.h
+.\DebugInFlash\rt_sys_c.o: .\cfg_file\Startup\..\..\.\ZY_CODE\.\Startup\lpc1100.h
+.\DebugInFlash\rt_sys_c.o: .\cfg_file\Startup\..\..\.\ZY_CODE\.\Startup\target.h
+.\DebugInFlash\rt_sys_c.o: .\cfg_file\Startup\..\..\.\ZY_CODE\.\zy_if\zy_if.h
+.\DebugInFlash\rt_sys_c.o: .\cfg_file\Startup\..\..\.\cfg_file\target_cfg.h
+.\DebugInFlash\rt_sys_c.o: .\cfg_file\Startup\..\..\.\cfg_file\Startup\LPC1100PinCfg.h
+.\DebugInFlash\rt_sys_c.o: C:\Keil\ARM\ARMCC\include\stdio.h
+.\DebugInFlash\rt_sys_c.o: C:\Keil\ARM\ARMCC\include\rt_sys.h
+.\DebugInFlash\rt_sys_c.o: C:\Keil\ARM\ARMCC\include\time.h
